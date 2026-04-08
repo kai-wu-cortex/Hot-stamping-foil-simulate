@@ -1,0 +1,5 @@
+{
+  "name": "CoatingSim Pro: Hot Stamping Foil Engine",
+  "description": "A high-fidelity simulation engine for hot stamping foil coating processes. Simulates the interaction between coating liquids, solvents, additives, and machine parameters (tension, speed) to visualize film formation and defects like streaks, bubbles, and orange peel using WebGL.",
+  "requestFramePermissions": []
+}
